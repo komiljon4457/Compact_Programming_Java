@@ -1,4 +1,4 @@
-## About Project First Assignment
+## About Project 
 # Komiljon Yangiboev - 7222441
 # Assignments
 First and Second assignment are both merged in same repository
